@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "name": "tailwind-css-bag-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwind build -i src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
